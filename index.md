@@ -11,7 +11,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 # Bin Li
-- Name:![Bin Li（李斌）](/binli.jpg)
 - Master Student
 - Department of Control and Systems Engineering
 - Nanjing University
