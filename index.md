@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/binlinju/binli.github.io/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+- Name:![Bin Li（李斌）](/binli.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -12,7 +14,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Bin Li
-![Bin Li（李斌）](/binli.jpg)
 ## Header 2
 ### Header 3
 
