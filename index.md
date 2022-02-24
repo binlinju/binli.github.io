@@ -8,20 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Reinforcement Learning
 - Intelligent Game
 
-### Bin Li
-- Master Student
-- Department of Control and Systems Engineering
-- Nanjing University
-
 ### Paper
 Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game (IJCNN 2022 UnderReview)
+Design and implementation of intelligent game system based on Reinforcement Learning——wargaming as an example
 ### Project
 
-**Bold** and _Italic_ and `Code` text
+Multi-agent deep reinforcement learning task planning model
 
-[Link](url) and ![Image](src)
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Professional skills
 Python, PyTorch
