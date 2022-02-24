@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
-<img src="/binli.jpg" width="100%">
+description: >
+  my description
+  <br><br>
+  <img src="/binli.jpg" width="100%">
+  
