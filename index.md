@@ -4,17 +4,16 @@ You can use the [editor on GitHub](https://github.com/binlinju/binli.github.io/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research Interests
+- Reinforcement Learning
+- Intelligent Game
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-
-## Bin Li
+### Bin Li
 - Master Student
 - Department of Control and Systems Engineering
 - Nanjing University
-## Paper
+
+### Paper
 Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game (IJCNN 2022 UnderReview)
 ### Project
 
