@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BinLi's Homepage
 
 You can use the [editor on GitHub](https://github.com/binlinju/binli.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,6 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Bin Li
+- Name:![Bin Li（李斌）](/binli.jpg)
+- Master Student
+- Department of Control and Systems Engineering
+- Nanjing University
 ## Header 2
 ### Header 3
 
@@ -29,7 +33,6 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
-- Name:![Bin Li（李斌）](/binli.jpg)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/binlinju/binli.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
