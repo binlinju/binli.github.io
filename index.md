@@ -10,6 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Paper
 Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game (IJCNN 2022 UnderReview)
+
 Design and implementation of intelligent game system based on Reinforcement Learning——wargaming as an example
 ### Project
 
