@@ -22,13 +22,13 @@ Bin Li is now studying as a master student at the [Department of Control and Sys
 
 ### Project
 - Multi-agent Deep Reinforcement Learning Task Planning Model <img src="/wargame.png" alt="wargame" width="90" height="70" align="bottom" />
-  - **Project content**: To meet the requirements of commanders to effectively understand the rapidly changing battlefield situation, build an intelligent game decision system of military chess in complex environment
+  - **Project content**: To meet the requirements of commanders to effectively understand the rapidly changing battlefield situation, build an intelligent game decision system of wargame in the complex environment
 
-  - **Work Done**: Realize intelligent chess game based on deep reinforcement learning algorithm
+  - **Work Done**: Realize intelligent wargame based on the deep reinforcement learning algorithms
 
-  - **Project Achievements**: 1 National Computer software copyright (Authorization Number: 2020R11S0628066); Participated in publishing 2 papers
+  - **Project Achievements**: A copyright of computer software (Authorization Number: 2020R11S0628066); Participated in publishing 2 papers
 
-  - **Related skills**: Reinforcement learning algorithm (DQN, PPO, A3C), Deep learning framework (PyTorch)
+  - **Related Skills**: Reinforcement Learning Algorithms (DQN, PPO, A3C), Deep Learning Framework (PyTorch)
 
 ### Reward
 - 2020 "Mozi Cup" the fourth National Wargaming Competition, the third place in Jiangsu division and the third prize in China
