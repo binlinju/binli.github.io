@@ -5,11 +5,11 @@ Bin Li is now studying as a master student at the [Department of Control and Sys
 - **Intelligent Game**: Intelligent Wargame
 
 ### Education & Internship Experience
-Machine Leaning Intern [Polixir](http://polixir.ai/)   2021.6-2021.8
+- Machine Leaning Intern [Polixir](http://polixir.ai/)  		 2021.6-2021.8
 
-M.E. [Nanjing University (NJU)](https://www.nju.edu.cn/main.htm)   2020.9-2023.6
+- M.E. [Nanjing University (NJU)](https://www.nju.edu.cn/main.htm)   2020.9-2023.6
 
-B.E. [Northeastern University (NEU)](http://www.neu.edu.cn/)   2016.9-2020.6
+- B.E. [Northeastern University (NEU)](http://www.neu.edu.cn/)   2016.9-2020.6
 
 ### Research
 - **Bin Li**, Yuxiang Sun, Xianzhong Zhou. Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game **(IJCNN in submission)**,*2022*. 
@@ -20,6 +20,7 @@ B.E. [Northeastern University (NEU)](http://www.neu.edu.cn/)   2016.9-2020.6
 
 ### Project
 - Multi-agent Deep Reinforcement Learning Task Planning Model <img src="/wargame.png" alt="wargame" width="90" height="70" align="bottom" />
+  - Reasults: 
 
 ### Reward
 - 2020 "Mozi Cup" the fourth National Wargaming Competition, the third place in Jiangsu division and the third prize in China
