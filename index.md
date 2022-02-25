@@ -22,7 +22,10 @@ Bin Li is now studying as a master student at the [Department of Control and Sys
 - 孙宇祥, 彭益辉, **李斌**, 周佳炜, 张鑫磊, 周献中. 游戏AI：对智能作战推演的启示 **(智能科学与技术学报)**, *2021*.
 
 ### Project
-- Multi-agent Deep Reinforcement Learning Task Planning Model <img src="/wargame.png" alt="wargame" width="90" height="70" align="bottom" />
+- Multi-agent Deep Reinforcement Learning Task Planning Model 
+  
+<img src="/wargame.png" alt="wargame" width="180" height="140" align="bottom" />
+  
   - **Project content**: To meet the requirements of commanders to effectively understand the rapidly changing battlefield situation, build an intelligent game decision system of wargame in the complex environment
 
   - **Work Done**: Realize intelligent wargame based on the deep reinforcement learning algorithms
