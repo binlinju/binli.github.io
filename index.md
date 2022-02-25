@@ -10,16 +10,18 @@ M.E. [Nanjing University(NJU)](https://www.nju.edu.cn/main.htm) 2020.9-2023.6
 B.E. [Northeastern University(NEU)](http://www.neu.edu.cn/) 2016.9-2020.6
 
 ### Research
-<img src="./h-model.jpg" width = "220" height = "190" alt="wargame" align=center />
+- **Bin Li**, Yuxiang Sun, Xianzhong Zhou. Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game **(IJCNN 2022 UnderReview)**
 
-**Bin Li**, Yuxiang Sun, Xianzhong Zhou. Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game **(IJCNN 2022 UnderReview)**
+- Yuxiang Sun, **Bin Li**, Yihui Peng, Xianzhong Zhou. Design and implementation of intelligent game system based on Reinforcement Learning——wargaming as an example. **BDCAT 2021**
 
-Yuxiang Sun, **Bin Li**, Yihui Peng, Xianzhong Zhou. Design and implementation of intelligent game system based on Reinforcement Learning——wargaming as an example. **BDCAT 2021**
+- 孙宇祥,彭益辉,**李斌**,周佳炜,张鑫磊,周献中. 游戏AI：对智能作战推演的启示（智能科学与技术学报 2021）
 
 ### Project
-<img src="./wargame.png" width = "240" height = "160" alt="wargame" align=center />
-
 - Multi-agent deep reinforcement learning task planning model
+
+### Reward
+- 2020 "Mozi Cup" the fourth National Wargaming Competition, the third place in Jiangsu division and the third prize in China
+- Second class Scholarship of Nanjing University
 
 ### Professional skills
 Python, PyTorch
