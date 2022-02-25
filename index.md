@@ -13,15 +13,18 @@ Bin Li is now studying as a master student at the [Department of Control and Sys
 
 ### Research
 - **Bin Li**, Yuxiang Sun, Xianzhong Zhou, Jiawei Zhou. Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game **(IJCNN in submission)**,*2022*. 
+
 <img src="/h-model.png" alt="h-model" width="210" height="160" align="bottom" />
 
 - Yuxiang Sun, **Bin Li**, Yihui Peng, Xianzhong Zhou. Design and implementation of intelligent game system based on Reinforcement Learning——wargaming as an example **(BDCAT)**, *2021*. 
+
 <img src="/mozi.png" alt="mozi" width="190" height="140" align="bottom" />
 
 - 孙宇祥, 彭益辉, **李斌**, 周佳炜, 张鑫磊, 周献中. 游戏AI：对智能作战推演的启示 **(智能科学与技术学报)**, *2021*.
 
 ### Project
 - Multi-agent Deep Reinforcement Learning Task Planning Model 
+
 <img src="/wargame.png" alt="wargame" width="180" height="140" align="bottom" />
   
   - **Project content**: To meet the requirements of commanders to effectively understand the rapidly changing battlefield situation, build an intelligent game decision system of wargame in the complex environment
