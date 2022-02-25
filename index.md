@@ -7,6 +7,7 @@
 ### Education
 M.E. Nanjing University <font color=#0000FF >蓝色</font>
 B.E. Northeastern University <font color=#0000FF >蓝色</font>
+<font color=#0000FF >2016.9-2020.6</font>
 
 ### Paper
 Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game (IJCNN 2022 UnderReview)
