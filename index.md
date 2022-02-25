@@ -1,5 +1,5 @@
 ## Welcome to BinLi's Homepage
-Bin Li is now a master student with the Department of Control and Systems Engineering, Nanjing University (NJU), under the superbision of Professor [Xianzhong Zhou](https://sme.nju.edu.cn/zxz/list.htm).
+Bin Li is now a master student with the [Department of Control and Systems Engineering, Nanjing University (NJU)](https://sme.nju.edu.cn/main.htm), under the superbision of Professor [Xianzhong Zhou](https://sme.nju.edu.cn/zxz/list.htm).
 ### Research Interests
 - **Reinforcement Learning**: Multi-agent Reinforcement Learning
 - **Intelligent Game**: Intelligent Wargame
