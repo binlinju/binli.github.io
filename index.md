@@ -4,7 +4,9 @@ Bin Li is now studying as a master student at the [Department of Control and Sys
 - **Reinforcement Learning**: Multi-agent Reinforcement Learning
 - **Intelligent Game**: Intelligent Wargame
 
-### Education
+### Education & Internship Experience
+Machine Leaning Intern [Polixir](http://polixir.ai/) <p>&#x2003;four spaces</p> 2021.6-2021.8
+
 M.E. [Nanjing University (NJU)](https://www.nju.edu.cn/main.htm) 2020.9-2023.6
 
 B.E. [Northeastern University (NEU)](http://www.neu.edu.cn/) 2016.9-2020.6
@@ -17,7 +19,7 @@ B.E. [Northeastern University (NEU)](http://www.neu.edu.cn/) 2016.9-2020.6
 - 孙宇祥,彭益辉,**李斌**,周佳炜,张鑫磊,周献中. 游戏AI：对智能作战推演的启示.**(智能科学与技术学报 2021)**
 
 ### Project
-- Multi-agent deep reinforcement learning task planning model
+- Multi-agent Deep Reinforcement Learning Task Planning Model
 
 ### Reward
 - 2020 "Mozi Cup" the fourth National Wargaming Competition, the third place in Jiangsu division and the third prize in China
