@@ -5,9 +5,9 @@ Bin Li is now studying as a master student at the [Department of Control and Sys
 - **Intelligent Game**: Intelligent Wargame
 
 ### Education
-M.E. [Nanjing University(NJU)](https://www.nju.edu.cn/main.htm) 2020.9-2023.6
+M.E. [Nanjing University (NJU)](https://www.nju.edu.cn/main.htm) 2020.9-2023.6
 
-B.E. [Northeastern University(NEU)](http://www.neu.edu.cn/) 2016.9-2020.6
+B.E. [Northeastern University (NEU)](http://www.neu.edu.cn/) 2016.9-2020.6
 
 ### Research
 - **Bin Li**, Yuxiang Sun, Xianzhong Zhou. Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game **(IJCNN 2022 in submission)**
