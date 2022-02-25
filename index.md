@@ -10,11 +10,11 @@ M.E. [Nanjing University (NJU)](https://www.nju.edu.cn/main.htm) 2020.9-2023.6
 B.E. [Northeastern University (NEU)](http://www.neu.edu.cn/) 2016.9-2020.6
 
 ### Research
-- **Bin Li**, Yuxiang Sun, Xianzhong Zhou. Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game. **IJCNN 2022 in submission**
+- **Bin Li**, Yuxiang Sun, Xianzhong Zhou. Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game. **(IJCNN 2022 in submission)**
 
-- Yuxiang Sun, **Bin Li**, Yihui Peng, Xianzhong Zhou. Design and implementation of intelligent game system based on Reinforcement Learning——wargaming as an example. **BDCAT 2021**
+- Yuxiang Sun, **Bin Li**, Yihui Peng, Xianzhong Zhou. Design and implementation of intelligent game system based on Reinforcement Learning——wargaming as an example. **(BDCAT 2021)**
 
-- 孙宇祥,彭益辉,**李斌**,周佳炜,张鑫磊,周献中. 游戏AI：对智能作战推演的启示.**智能科学与技术学报 2021**
+- 孙宇祥,彭益辉,**李斌**,周佳炜,张鑫磊,周献中. 游戏AI：对智能作战推演的启示.**(智能科学与技术学报 2021)**
 
 ### Project
 - Multi-agent deep reinforcement learning task planning model
