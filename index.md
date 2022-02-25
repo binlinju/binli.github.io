@@ -19,7 +19,7 @@ B.E. [Northeastern University (NEU)](http://www.neu.edu.cn/)   2016.9-2020.6
 - 孙宇祥, 彭益辉, **李斌**, 周佳炜, 张鑫磊, 周献中. 游戏AI：对智能作战推演的启示 **(智能科学与技术学报)**, *2021*.
 
 ### Project
-- Multi-agent Deep Reinforcement Learning Task Planning Model <img src="wargame.jpg" alt="wargame" width="100" height="30" align="bottom" />
+- Multi-agent Deep Reinforcement Learning Task Planning Model <img src="/wargame.png" alt="wargame" width="90" height="70" align="bottom" />
 
 ### Reward
 - 2020 "Mozi Cup" the fourth National Wargaming Competition, the third place in Jiangsu division and the third prize in China
