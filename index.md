@@ -14,8 +14,7 @@ Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent 
 
 Design and implementation of intelligent game system based on Reinforcement Learning——wargaming as an example
 ### Project
-![wargame](/wargame.png)Multi-agent deep reinforcement learning task planning model
-
+<img src="./wargame.png" width = "300" height = "200" alt="wargame" align=center />Multi-agent deep reinforcement learning task planning model
 
 ### Professional skills
 Python, PyTorch
