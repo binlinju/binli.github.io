@@ -6,9 +6,7 @@ Bin Li is now studying as a master student at the [Department of Control and Sys
 
 ### Education & Internship Experience
 - Machine Leaning Intern [Polixir](http://polixir.ai/)  *2021.6-2021.8*
-
 - M.E. [Nanjing University (NJU)](https://www.nju.edu.cn/main.htm)   *2020.9-2023.6*
-
 - B.E. [Northeastern University (NEU)](http://www.neu.edu.cn/)   *2016.9-2020.6*
 
 ### Research
