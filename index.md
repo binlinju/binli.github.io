@@ -36,6 +36,3 @@ Bin Li is now studying as a master student at the [Department of Control and Sys
 ### Reward
 - 2020 "Mozi Cup" the fourth National Wargaming Competition, the third place in Jiangsu division and the third prize in China
 - Second class Scholarship of Nanjing University
-
-### Professional skills
-Python, PyTorch
