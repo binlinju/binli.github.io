@@ -21,7 +21,7 @@ Bin Li is now studying as a master candidate at the [Department of Control and S
 ### Project
 - Multi-agent Deep Reinforcement Learning Task Planning Model 
 
-<img src="/wargame.png" alt="wargame" width="180" height="140" align="bottom" />
+  <img src="/wargame.png" alt="wargame" width="180" height="140" align="bottom" />
   
   - **Project content**: To meet the requirements of commanders to effectively understand the rapidly changing battlefield situation, build an intelligent game decision system of wargame in the complex environment
 
