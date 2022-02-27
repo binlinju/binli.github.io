@@ -22,11 +22,8 @@ Bin Li is now studying as a master candidate at the [Department of Control and S
   <img src="/wargame.png" alt="wargame" width="180" height="140" align="bottom" />
   
   - **Project content**: To meet the requirements of commanders to effectively understand the rapidly changing battlefield situation, build an intelligent game decision system of wargame in the complex environment
-
   - **Task**: Implement intelligent wargame based on the deep reinforcement learning algorithms
-
   - **Project Achievements**: A copyright of computer software (Authorization Number: 2020R11S0628066); Participated in publishing 2 papers
-
   - **Related Skills**: Reinforcement Learning Algorithms (DQN, PPO, A3C), Deep Learning Framework (PyTorch)
 
 ### Reward
