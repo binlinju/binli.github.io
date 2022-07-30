@@ -2,7 +2,7 @@
 Bin Li is now studying as a master candidate at the [Department of Control and Systems Engineering, Nanjing University (NJU)](https://sme.nju.edu.cn/main.htm), under the supervision of Professor [Xianzhong Zhou](https://sme.nju.edu.cn/zxz/list.htm).
 ### Research Interests
 - **Reinforcement Learning**: Multi-agent Reinforcement Learning
-- **Intelligent Game**: Intelligent Wargame
+- **Intelligent Game**
 
 ### Education & Internship Experience
 - Reinforcement Learning Intern in [4Paradigm](https://www.4paradigm.com/?brandzone-title) *2022.5-Now*
@@ -11,7 +11,7 @@ Bin Li is now studying as a master candidate at the [Department of Control and S
 - B.E. in [Northeastern University (NEU)](http://www.neu.edu.cn/)   *2016.9-2020.6*
 
 ### Research
-- **Bin Li**, Yuxiang Sun, Xianzhong Zhou, Jiawei Zhou. Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game **(IJCNN)**,*2022*. 
+- **Bin Li**, Yuxiang Sun, Xianzhong Zhou. Hierarchical Architecture for Multi-agent Reinforcement Learning in Intelligent Game **(IJCNN)**,*2022*. 
 
   <img src="/h-model.png" alt="h-model" width="210" height="180" align="bottom" />
 - Yuxiang Sun, Bo Yuan, **Bin Li**, Yihui Peng, Xianzhong Zhou. Design and implementation of intelligent game system based on Reinforcement Learning——wargaming as an example **(BDCAT)**, *2021*. <a href="/wargame.pdf">[*Paper*]</a>
@@ -27,6 +27,9 @@ Bin Li is now studying as a master candidate at the [Department of Control and S
   - **Project Achievements**: A copyright of computer software (Authorization Number: 2020R11S0628066); Participated in publishing 2 papers
   - **Related Skills**: Reinforcement Learning Algorithms (DQN, PPO, A3C), Deep Learning Framework (PyTorch)
 
+### Professional skills
+Python, PyTorch, Ray; Proficient in reinforcement learning algorithms such as DQN, REINFORCE, PPO, TRPO, DDPG, etc; Familiar with Deep Learning models such as CNN, RNN, LSTM, GRU, ResNet, Transformer, etc.
+
 ### Reward
-- 2020, "Mozi Cup" the 4th National Wargaming Competition, the third place in Jiangsu division and the third prize in China
+- 2020, The 4th National Wargaming Competition, the third place in Jiangsu division and the third prize in China
 - 2021, Second-class Scholarship of Nanjing University
