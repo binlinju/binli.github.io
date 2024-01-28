@@ -33,3 +33,4 @@ Python, PyTorch, Ray; Proficient in reinforcement learning algorithms such as DQ
 ### Reward
 - 2020, The 4th National Wargaming Competition, the third place in Jiangsu division and the third prize in China
 - 2021, Second-class Scholarship of Nanjing University
+- 2022, Excellent Master's students
